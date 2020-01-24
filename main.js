@@ -3,5 +3,7 @@ var app = new Vue({
   data: {
     product: 'Socks',
     description: 'A pair of warm, fuzzy socks',
+    image: './assets/vmSocks-green.jpg',
+    link: 'www.google.com',
   }
 })
